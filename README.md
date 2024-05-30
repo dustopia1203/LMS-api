@@ -69,7 +69,3 @@
 - [x] Get course analytics last 28 days
 - [x] Create layout
 - [x] Edit layout
-
-## Frontend (Client)
-
-### Technology brief: React + Bootstrap/Bootstrap Component?? ~~TailwindCSS??~~ MaterialUI??
